@@ -26,7 +26,7 @@ While our repositories are private, we are always open to new talent. If you are
 
 For any inquiries, support, or contributions, feel free to contact us at:
 
-- **Email**: support@redandco.com
+- **Email**: contact.redandco@gmail.com
 - **Discord**: [Red&Co Discord](https://discord.redandco.fr/)
 
 Thank you for your interest in Red&Co. Together, we can create something truly amazing.
